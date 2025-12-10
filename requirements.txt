@@ -1,0 +1,12 @@
+# ParaVision Analyzer Dependencies
+# Parathyroid Pattern Recognition Computer Vision System
+# Python 3.7+
+
+# Core dependencies
+numpy>=1.19.0
+pandas>=1.1.0
+opencv-python>=4.5.0
+matplotlib>=3.3.0
+scipy>=1.5.0
+scikit-image>=0.17.0
+Pillow>=8.0.0
