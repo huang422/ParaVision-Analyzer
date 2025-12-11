@@ -1,9 +1,8 @@
 # ParaVision Analyzer
 ## 副甲狀腺影像辨識電腦視覺系統
 
-[![Python Version](https://img.shields.io/badge/python-3.7%2B-blue)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/license-Proprietary-red)](LICENSE)
-[![Status](https://img.shields.io/badge/status-Production%20Ready-green)](README.md)
+[![Python](https://img.shields.io/badge/python-3.7%2B-blue)](https://www.python.org/downloads/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green?logo=opencv)](https://opencv.org/)
 
 ParaVision Analyzer是全方位醫學影像分析工具，用於自動化副甲狀腺腫瘤檢測、特徵提取和量化分析。此工具處理標註的醫學影像，提取形態學、紋理和強度特徵，為醫療專業人員和研究人員提供客觀的測量數據。
 

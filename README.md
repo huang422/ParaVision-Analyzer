@@ -1,9 +1,8 @@
 # ParaVision Analyzer
 ## Parathyroid Pattern Recognition Computer Vision System
 
-[![Python Version](https://img.shields.io/badge/python-3.7%2B-blue)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/license-Proprietary-red)](LICENSE)
-[![Status](https://img.shields.io/badge/status-Production%20Ready-green)](README.md)
+[![Python](https://img.shields.io/badge/python-3.7%2B-blue)](https://www.python.org/downloads/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green?logo=opencv)](https://opencv.org/)
 
 A comprehensive medical image analysis tool for automated parathyroid tumor detection, feature extraction, and quantitative analysis. This tool processes annotated medical images to extract morphological, textural, and intensity features, providing objective measurements to assist medical professionals and researchers.
 
