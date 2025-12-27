@@ -1,10 +1,10 @@
 # ParaVision Analyzer
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/huang422)
+
 ## Parathyroid Pattern Recognition Computer Vision System
 
 [![Python](https://img.shields.io/badge/python-3.7%2B-blue)](https://www.python.org/downloads/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green?logo=opencv)](https://opencv.org/)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/huang422)
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/default-orange.png)](https://www.buymeacoffee.com/huang422)
 
 
 A comprehensive medical image analysis tool for automated parathyroid tumor detection, feature extraction, and quantitative analysis. This tool processes annotated medical images to extract morphological, textural, and intensity features, providing objective measurements to assist medical professionals and researchers.
@@ -378,5 +378,6 @@ For questions, issues, or collaboration inquiries:
 **Status**: Production Ready
 
 **Language**: [English](README.md) | [繁體中文](README_zh-TW.md)
+
 
 
