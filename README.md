@@ -1,3 +1,4 @@
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/huang422)
 # ParaVision Analyzer
 ## Parathyroid Pattern Recognition Computer Vision System
 
@@ -346,6 +347,7 @@ This is a proprietary project developed for medical research. Contributions are 
 For questions, issues, or collaboration inquiries:
 - **Developer**: Tom Huang
 - **Email**: huang1473690@gmail.com
+- [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/huang422)
 
 ## Troubleshooting
 
@@ -375,3 +377,4 @@ For questions, issues, or collaboration inquiries:
 **Status**: Production Ready
 
 **Language**: [English](README.md) | [繁體中文](README_zh-TW.md)
+
