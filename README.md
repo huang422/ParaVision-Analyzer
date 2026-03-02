@@ -335,10 +335,7 @@ ParaVision-Analyzer/
 This is a proprietary project developed for medical research. Contributions are limited to authorized personnel.
 
 ## License
-
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## Contact
 For questions, issues, or collaboration inquiries:
