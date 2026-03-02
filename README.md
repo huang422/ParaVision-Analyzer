@@ -4,6 +4,7 @@
 
 [![Python](https://img.shields.io/badge/python-3.7%2B-blue)](https://www.python.org/downloads/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green?logo=opencv)](https://opencv.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/huang422)
 
 A comprehensive medical image analysis tool for automated parathyroid tumor detection, feature extraction, and quantitative analysis. This tool processes annotated medical images to extract morphological, textural, and intensity features, providing objective measurements to assist medical professionals and researchers.
@@ -335,19 +336,21 @@ This is a proprietary project developed for medical research. Contributions are 
 
 ## License
 
-© 2025 Tom Huang. All rights reserved.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## Contact
+For questions, issues, or collaboration inquiries:
+
+- Developer: Tom Huang
+- Email: huang1473690@gmail.com
 
 ### Third-Party Tools
 
 - [LabelMe](https://github.com/wkentaro/labelme): Image annotation tool
 - [OpenCV](https://opencv.org/): Computer vision library
 - [scikit-image](https://scikit-image.org/): Image processing in Python
-
-## Contact
-
-For questions, issues, or collaboration inquiries:
-- **Developer**: Tom Huang
-- **Email**: huang1473690@gmail.com
 
 ## Troubleshooting
 
